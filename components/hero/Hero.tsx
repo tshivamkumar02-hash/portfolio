@@ -130,7 +130,7 @@ export default function Hero() {
               duration-300
               "
             >
-              Downlaod Resume
+              Download Resume
             </a>
           </div>
         </div>
