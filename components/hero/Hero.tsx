@@ -132,6 +132,23 @@ export default function Hero() {
             >
               Download Resume
             </a>
+
+            <a
+              href="/NCC.jpeg"
+              target="_blank"
+              className="
+              border
+              border-green-500
+              px-6
+              py-3
+              rounded-lg
+              hover:scale-105
+              transition-all
+              duration-300
+              "
+            >
+              MY NCC Certificate
+            </a>
           </div>
         </div>
 
