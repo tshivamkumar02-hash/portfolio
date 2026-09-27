@@ -90,9 +90,9 @@ export default function AboutMe() {
             </h3>
 
             <p className="mt-4 text-slate-300">
-              Teaching Mathematics, Science and
+              Teaching Mathematics, Science, Computer and
               Social Science to students of
-              Classes 6–10 with 100+ students mentored.
+              Classes 6–12 with 300+ students mentored.
             </p>
           </div>
 
