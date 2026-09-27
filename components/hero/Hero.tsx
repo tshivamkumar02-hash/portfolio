@@ -149,6 +149,25 @@ export default function Hero() {
             >
               MY NCC Certificate
             </a>
+
+            <a
+              href="https://www.youtube.com/@SKTC_CLASSES"
+              target="_blank"
+              className="
+              border
+              border-green-500
+              px-6
+              py-3
+              rounded-lg
+              hover:scale-105
+              transition-all
+              duration-300
+              "
+            >
+              SKTC Classes Youtube Channel 
+            </a>
+
+            
           </div>
         </div>
 
