@@ -83,7 +83,7 @@ export default function Hero() {
             mt-8
             "
           >
-            <a
+            {/* <a
               href="#projects"
               className="
               bg-cyan-500
@@ -98,7 +98,7 @@ export default function Hero() {
               "
             >
               View Projects
-            </a>
+            </a> */}
 
             <a
               href="#contact"
@@ -130,7 +130,24 @@ export default function Hero() {
               duration-300
               "
             >
-              Download Resume
+              Download Professional Resume (Tech)
+            </a>
+
+            <a
+              href="/Teaching_Resume.pdf"
+              target="_blank"
+              className="
+              border
+              border-green-500
+              px-6
+              py-3
+              rounded-lg
+              hover:scale-105
+              transition-all
+              duration-300
+              "
+            >
+              Download Teaching Resume
             </a>
 
             <a
@@ -167,7 +184,6 @@ export default function Hero() {
               SKTC Classes Youtube Channel 
             </a>
 
-            
           </div>
         </div>
 
